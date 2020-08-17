@@ -1,5 +1,3 @@
-//Aside from this comment I left this file alone.
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

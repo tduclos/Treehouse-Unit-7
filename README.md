@@ -1,10 +1,3 @@
-# Treehouse Unit 7
- React Gallery App
-
-## A note to Treehouse testers:
-
-Please place your config.js file in /src/components.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
